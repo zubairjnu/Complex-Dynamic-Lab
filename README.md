@@ -1,1 +1,1 @@
-# Complex-Dynamic-Lab
+# p53 dynamic codes
